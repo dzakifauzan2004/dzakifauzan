@@ -1,1 +1,1 @@
-# dzakifauzan
+# Geophysics UGM
