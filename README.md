@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/1266167669322952704/Dn21qOB3_400x400.jpg"/>
+<img src="https://pbs.twimg.com/media/FP_rZyHXIA00-J-.jpg:small"/>
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
