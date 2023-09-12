@@ -1,3 +1,4 @@
+<img src="https://pbs.twimg.com/media/EYpsozBXgAAaJhP?format=jpg&name=large"/>
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
