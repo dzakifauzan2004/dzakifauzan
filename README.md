@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://www.wallpaperflare.com/sky-mount-bromo-bromo-tengger-semeru-national-park-indonesia-wallpaper-ydkk">
+<img src="https://photos.google.com/photo/AF1QipMNhH2x0_02ivYI4fhe8_Uj1pcvyRAeeguhGz8E"/>
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
