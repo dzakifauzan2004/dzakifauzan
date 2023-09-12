@@ -1,8 +1,9 @@
+<img align="center" alt="Coding" width="800" src="https://www.wallpaperflare.com/sky-mount-bromo-bromo-tengger-semeru-national-park-indonesia-wallpaper-ydkk">
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
 - 🌏 I'm from the municipality of **Bontang, East Borneo**
-- ⚒️ I'm interested in **Geophysics, Geology and Vulcanology**
+- 🌋⚒️ I'm interested in **Geophysics, Geology and Vulcanology**
 - 📚 I'm currently learning **Programming and Computational Methods for Geophysics**
 
 - 📫 You can reach me on **muhammaddzakifauzan2004@mail.ugm.ac.id**
