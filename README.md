@@ -1,4 +1,4 @@
-<img src="https://twitter.com/stanfordcard74/status/1701595260613546285?s=19"/>
+<img src="https://github.com/dzakifauzan2004/dzakifauzan2004/assets/114566263/6264c7c5-43de-4b52-96ff-b86217f9ecd5"/>
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
