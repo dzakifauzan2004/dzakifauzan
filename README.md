@@ -1,9 +1,8 @@
-<img src="https://github.com/dzakifauzan2004/dzakifauzan2004/assets/114566263/6264c7c5-43de-4b52-96ff-b86217f9ecd5"/>
 <h1 align="center">Hello 👋, I'm Muhammad Dzaki Fauzan</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
 - 🌏 I'm from the municipality of **Bontang, East Borneo**
-- 🌋⚒️ I'm interested in **Geophysics, Geology and Vulcanology**
+- 🌋 I'm interested in **Geophysics, Geology and Vulcanology**
 - 📚 I'm currently learning **Programming and Computational Methods for Geophysics**
 
 - 📫 You can reach me on **muhammaddzakifauzan2004@mail.ugm.ac.id**
