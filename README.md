@@ -3,7 +3,7 @@
 
 - 🌏 I'm from the municipality of **Bontang, East Borneo**
 - ⚒️ I'm interested in **Geophysics, Geology and Vulcanology**
-- 📚 I'm currently learning **Programming and Computation Methods for Geophysics**
+- 📚 I'm currently learning **Programming and Computational Methods for Geophysics**
 
 - 📫 You can reach me on **muhammaddzakifauzan2004@mail.ugm.ac.id**
 
